@@ -1,0 +1,8 @@
+Since the code was written to abide the OCP Principle, the changes made were minimal.
+
+The changes made with the addition of the rectangle shape type were:
+1. A new class 'Rectangle' was created.
+2. The abstract method 'public String Draw()' in Interface Shape was defined inside the 'Rectangle' class to return the string 'Drawing Rectangle\n'.
+3. Inside the Solution class' method WhatShapeIsIt, a new condition was added to the switch case that now also checks for the string 'Rectangle' and returns 
+an object of Rectangle class type.
+4. A new test case was written for the new possible inputs.
