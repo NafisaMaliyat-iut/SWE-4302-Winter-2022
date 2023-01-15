@@ -1,0 +1,15 @@
+D:\3rd Semester\OOCII\Lab01\obj\Debug\net6.0\Lab01.csproj.AssemblyReference.cache
+D:\3rd Semester\OOCII\Lab01\obj\Debug\net6.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Semester\OOCII\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfoInputs.cache
+D:\3rd Semester\OOCII\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfo.cs
+D:\3rd Semester\OOCII\Lab01\obj\Debug\net6.0\Lab01.csproj.CoreCompileInputs.cache
+D:\3rd Semester\OOCII\Lab01\bin\Debug\net6.0\Lab01.exe
+D:\3rd Semester\OOCII\Lab01\bin\Debug\net6.0\Lab01.deps.json
+D:\3rd Semester\OOCII\Lab01\bin\Debug\net6.0\Lab01.runtimeconfig.json
+D:\3rd Semester\OOCII\Lab01\bin\Debug\net6.0\Lab01.dll
+D:\3rd Semester\OOCII\Lab01\bin\Debug\net6.0\ref\Lab01.dll
+D:\3rd Semester\OOCII\Lab01\bin\Debug\net6.0\Lab01.pdb
+D:\3rd Semester\OOCII\Lab01\obj\Debug\net6.0\Lab01.dll
+D:\3rd Semester\OOCII\Lab01\obj\Debug\net6.0\ref\Lab01.dll
+D:\3rd Semester\OOCII\Lab01\obj\Debug\net6.0\Lab01.pdb
+D:\3rd Semester\OOCII\Lab01\obj\Debug\net6.0\Lab01.genruntimeconfig.cache
